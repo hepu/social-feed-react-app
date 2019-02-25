@@ -1,0 +1,7 @@
+.git
+.cache
+*.md
+!README*.md
+README-secret.md
+node_modules/*
+.DS_Store

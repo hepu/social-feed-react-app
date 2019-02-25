@@ -1,0 +1,43 @@
+.Post {
+  border: 1px solid #CCC;
+  border-radius: 0.61em;
+  padding: 0.61em;
+  margin-top: 0.89em;
+  margin-bottom: 0.89em;
+  margin-left: 0.55em;
+  margin-right: 0.55em
+}
+.Post-user-avatar {
+  display: inline-block;
+  vertical-align: top;
+}
+.Post-user-name {
+  font-size: 0.89em;
+  font-weight: bold;
+  margin-right: 0.39em
+}
+.Post-user-screen_name {
+  color: #575757;
+  font-size: 0.89em;
+}
+.Post-body {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 0.61em;
+  padding-right: 0.61em;
+}
+.Post-text {
+  font-size: 0.89em;
+  margin-top: 0.21em;
+}
+.Post-text a {
+  color: #833;
+}
+.Post-text a:hover {
+  color: #511;
+}
+.Post-date {
+  color: #333;
+  font-size: 0.89em;
+  margin-top: 0.61em;
+}

@@ -1,0 +1,4 @@
+export const POSTS_STANDBY = 'POSTS_STANDBY'
+export const POSTS_FETCHING = 'POSTS_FETCHING'
+export const POSTS_MOUNTING = 'POSTS_MOUNTING'
+export const POSTS_ERROR = 'POSTS_ERROR'
